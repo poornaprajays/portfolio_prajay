@@ -35,7 +35,7 @@ function App() {
     <div>
       {loading ? (
         <Spinner
-          label="Welcome to Sanchit's Space..."
+          label="Welcome to Prajay's Space..."
           className="flex flex-col bg-oceandark items-center justify-center min-h-screen"
           color="warning"
         />
@@ -43,7 +43,7 @@ function App() {
         <Suspense
           fallback={
             <Spinner
-              label="Welcome to Sanchit's Space..."
+              label="Welcome to Prajay's Space..."
               className="flex flex-col bg-oceandark items-center justify-center min-h-screen"
               color="warning"
             />
