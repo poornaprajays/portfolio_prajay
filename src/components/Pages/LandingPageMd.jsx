@@ -41,7 +41,7 @@ const LandingPageMd = () => {
             }
             onClick={() => {
               window.open(
-                "https://www.dropbox.com/scl/fi/0qr48czodx7idsxcbiqo5/resume_sanchit_vijay.pdf?rlkey=bpngu4nyh4rpb3gq0gb011fhw&st=ki10am6y&dl=0"
+                "https://www.dropbox.com/scl/fi/uqsam9pjhuoa1w2hgrtsk/resume_prajay___1_.pdf?rlkey=0t806ll731lsczbxtrkz3eyqn&st=u3ffn124&dl=0"
               );
             }}
           >
