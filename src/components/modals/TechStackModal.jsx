@@ -10,6 +10,7 @@ import {
 import {
   developerTools,
   fullstack,
+  generativeAI,
   programmingLanguages,
   softSkills,
 } from "../constants/techstack";
@@ -35,6 +36,18 @@ const TechStackModal = (props) => {
               <div className="text-lg font-semibold">
                 <span className="text-[#99D52A]">Fullstack: </span>
                 {fullstack?.map((e, i) => (
+                  <span className="text-sm my-auto" key={i}>
+                    {e},{" "}
+                  </span>
+                ))}
+              </div>
+
+              <div className="my-1 px-8">
+                <Divider />
+              </div>
+              <div className="text-lg font-semibold">
+                <span className="text-[#99D52A]">Generative AI: </span>
+                {generativeAI?.map((e, i) => (
                   <span className="text-sm my-auto" key={i}>
                     {e},{" "}
                   </span>
