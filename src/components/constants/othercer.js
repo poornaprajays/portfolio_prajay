@@ -1,15 +1,11 @@
 const data = [
     {
-        title:"Core Member of CodeRIT",
-        desc: "CodeRIT is a student-run coding club at the MSRIT. I am a core member of the club and I am responsible for organizing events, workshops, and competitions for the club.",
+        title: "Student Volunteer – TiEMysuru",
+        desc: "Served as a Student Volunteer at TiE Mysuru, a global entrepreneurship network, contributing to the organization of startup-focused events, workshops, and networking sessions. This gave me direct exposure to the startup ecosystem, entrepreneurial thinking, and the energy of building something from the ground up.",
     },
     {
-        title:"Core Member of SecuRit",
-        desc: "SecuRit is a student-run cybersecurity club at the MSRIT. I am a core member of the club and I am responsible for organizing events, workshops, and competitions for the club. I am also responsible for managing the club's website.",
-    },
-    {
-        title: "Conducted lessons",
-        desc: "I have Conducted lessons on technology for school students, focusing on digital literacy and practical skills."
+        title: "Ghibli Explorer 🎋",
+        desc: "A big fan boy of all the movies of Studio Ghibli – Hayao Miyazaki. There's something about the way Miyazaki frames the world — the silence between words, the weight of a single raindrop, the dignity given to the mundane — that no other filmmaker has captured. My favourites: Princess Mononoke for its moral complexity and Ocean Waves for its quiet, aching nostalgia.",
     }
 ]
 
