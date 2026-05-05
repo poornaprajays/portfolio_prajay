@@ -1,12 +1,12 @@
 import { Card } from "@nextui-org/react";
-import avatar from "../../assets/Pics/profile.png";
+import avatar from "../../assets/Pics/profile.jpg";
 import MyChip from "./MyChip";
 
 const ProPic = () => {
   return (
     <div className="flex flex-col items-center">
       <Card className="w-[84px] h-[84px] md:w-[138px] md:h-[134px]" radius="md">
-        <img alt="Sanchit Vijay" src={avatar} className="image-cover" />
+        <img alt="Poorna Prajay S" src={avatar} className="image-cover grayscale hover:grayscale-0 transition-all duration-500" />
       </Card>
 
       <MyChip text="Open to Work"></MyChip>
