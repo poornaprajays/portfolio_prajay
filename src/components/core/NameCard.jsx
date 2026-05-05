@@ -17,23 +17,15 @@ const NameCard = () => {
           <div className="flex flex-col">
             <NameTag />
             <div className="flex gap-1 -mt-2 md:-mt-1">
-              <MyChip variant="secondary" text="Bangalore,India" emoji="📍" />
-              <MyChip variant="secondary" text="BE CSE, MSRIT" emoji="🎓" />
+              <MyChip variant="secondary" text="Mandya, India" emoji="📍" />
+              <MyChip variant="secondary" text="BE CSE, PESCE" emoji="🎓" />
             </div>
 
             <div className="ml-1 w-44 flex items-center justify-center rounded-lg overflow-hidden shadow-xl -mt-1.5 md:w-[300px]">
               <Marquee className="[--duration:20s]">
-                <MyChip
-                  variant="secondary"
-                  text="MERN Developer"
-                  emoji="🏢"
-                />
-                <MyChip
-                  variant="secondary"
-                  text="Competitive Programmer"
-                  emoji="💻"
-                />
-                <MyChip variant="secondary" text="Hindi & English" emoji="🗣️" />
+                <MyChip variant="secondary" text="Fullstack Dev" emoji="💻" />
+                <MyChip variant="secondary" text="AI/ML Intern" emoji="🤖" />
+                <MyChip variant="secondary" text="English, Hindi, Kannada, Telugu" emoji="🗣️" />
               </Marquee>
             </div>
           </div>
