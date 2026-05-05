@@ -1,52 +1,27 @@
 const fullstack = [
-    "HTML",
-    "CSS",
-    "React",
-    "Bootstrap",
-    "TailwindCSS",
-    "Node.js",
-    "PostgreSQL",
-    "MySQL",
-    "MongoDB",
-    "Redis",
-    "Flask",
-    "Firebase",
-    "Socket.io",
-    "Express",
-    "Django",
-    "Docker",
-    "AWS"
-  ];
-  
-  const programmingLanguages = [
-    "JavaScript",
-    "C++",
-    "C",
-    "Python",
-    "Java"
-  ];
-  
-  const developerTools = [
-    "Figma",
-    "Git",
-    "GitHub",
-    "VSCode",
-    "Ubuntu"
-  ];
-  
-  const softSkills = [
-    "Communication",
-    "Teamwork",
-    "Problem Solving",
-    "Adaptability",
-    "Time Management",
-    "Creativity",
-    "Leadership",
-    "Empathy",
-    "Hard Working",
-    "Fast Learner",
-    "Discipline"
-  ];
-  
-  export { fullstack, programmingLanguages, developerTools, softSkills };
-  
+    "HTML", "CSS", "React18", "TypeScript", "TailwindCSS",
+    "Node.js", "Express", "PostgreSQL", "MySQL", "MongoDB",
+    "Supabase", "Firebase", "Socket.io", "WebSockets",
+    "Streamlit", "scikit-learn", "numpy", "pandas",
+    "Docker", "AWS", "FastAPI", "SpringBoot"
+];
+
+const generativeAI = [
+    "Langchain", "RAG", "vectorDB", "Gemini API", "OpenAI API", "Groq API"
+];
+
+const programmingLanguages = [
+    "C", "Python", "Java", "JavaScript"
+];
+
+const developerTools = [
+    "Git", "GitHub", "VSCode", "Figma"
+];
+
+const softSkills = [
+    "Communication", "Teamwork", "Problem Solving", "Adaptability",
+    "Time Management", "Creativity", "Leadership", "Empathy",
+    "Hard Working", "Fast Learner", "Discipline"
+];
+
+export { fullstack, generativeAI, programmingLanguages, developerTools, softSkills };
