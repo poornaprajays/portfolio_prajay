@@ -27,17 +27,17 @@ const ContactModal = (props) => {
                   <div className="flex flex-row gap-3 mb-3">
                     <Icon icon="mdi:phone" className="w-4 h-4" />
                     <span className="font-semibold">Mobile:</span>
-                    <span>+91 8445137008</span>
+                    <span>+91 83105449918</span>
                   </div>
                   <div className="flex flex-row gap-3 mb-3">
                     <Icon icon="mdi:email" className="w-4 h-4" />
                     <span className="font-semibold">Email:</span>
-                    <span><a href="mailto: sanchiitvijay@gmail.com" >sanchitvijay2@gmail.com</a></span>
+                    <span><a href="mailto: prajays.work@gmail.com" >prajays.work@gmail.com</a></span>
                   </div>
                   <div className="flex flex-row gap-3 mb-3">
                     <Icon icon="ph:address-book-fill" className="w-5 h-5" />
                     <span className="font-semibold">Address:</span>
-                    <span>MSRIT, Mathtikere, Bengaluru, Karnataka, India 560054</span>
+                    <span>Sakkare Naadu, Mandya, Karnataka, India</span>
                   </div>
                   
                   <div className="my-3 px-8">
